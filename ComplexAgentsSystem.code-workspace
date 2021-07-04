@@ -5,10 +5,16 @@
 		},
 		{
 			"path": "../../ProjectsFile/Creation/思想库"
+		},
+		{
+			"path": "../../ProjectsFile/Career/GameDesign/EvolutionSystemGame_idea"
+		},
+		{
+			"path": "../../../../LocalFiles/ProjectsFile/GameDesign/EvolutionSystemGame"
 		}
 	],
 	"settings": {
-		"editor.fontFamily": "Times, Menlo, Monaco, 'Courier New', monospace",
+		"editor.fontFamily": "Kaiti SC, Times, Menlo, Monaco, 'Courier New', monospace",
 		"editor.fontSize": 14,
 		"files.autoSave": "afterDelay",
 		"git.terminalAuthentication": false
