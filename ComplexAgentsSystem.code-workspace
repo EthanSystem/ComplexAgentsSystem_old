@@ -15,8 +15,8 @@
 	],
 	"settings": {
 		"editor.fontFamily": "Kaiti SC, Times, Menlo, Monaco, 'Courier New', monospace",
-		"editor.fontSize": 14,
 		"files.autoSave": "afterDelay",
-		"git.terminalAuthentication": false
+		"git.terminalAuthentication": false,
+		"editor.fontSize": 15
 	}
 }
